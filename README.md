@@ -1,7 +1,7 @@
 # TelecomPlus – Relatório Técnico Completo
 
 > Case de previsão de churn • Inteli Academy  
-> Autor: Mateus Pereira • Data: 29 abr 2025
+> Autor: Mateus Beppler Pereira • Data: 29 abr 2025
 
 ## Sumário
 1. [Estrutura do Repositório](#estrutura-do-repositório)  
